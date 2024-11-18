@@ -2,15 +2,16 @@
 
 Projeto com o objetivo de gerar um e-book com as facilidades das ferramentas de IA.
 
-📕Clique aqui para ler
+<a href="https://github.com/SanMartinRO/CSS-E-book/blob/main/E-book%20CSS.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 
 
  💻 Tecnologias utilizadas no projeto
 
  
- - ChatGPT para texto e imagens
- - Microsoft Copilot para imagens
- - Microsoft Power Point para diagramar o e-book
+ - [ChatGPT](https://chatgpt.com/) para texto e imagens
+ - [Microsoft Copilot ](https://copilot.microsoft.com/) para imagens
+ - [Microsoft Power Point](https://www.microsoft.com/en/microsoft-365/powerpoint) para diagramar o e-book
 
 
  🧠 Principais Prompts
